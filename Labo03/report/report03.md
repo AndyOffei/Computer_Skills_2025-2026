@@ -2,7 +2,7 @@
 ## Front matter
 title: "Отчёт по лабораторной работе №3"
 subtitle: "Computer Skills for Scientific Writing"
-author: "Оффей Эндрю"
+author: "Оффеи Эндрю"
 
 ## Generic otions
 lang: ru-RU
